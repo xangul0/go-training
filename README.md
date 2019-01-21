@@ -1,1 +1,1 @@
-# go-training.
+# go-training
